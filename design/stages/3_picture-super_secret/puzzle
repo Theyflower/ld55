@@ -1,0 +1,35 @@
+this is the image one
+there's going to be a jigsaw puzzle of multiple pieces that form a grid but some pieces are longer than others (like 2x1 or 1x2)
+
+there will be a few shapes that the "edges" of the pieces can have. in general each shape should only go "out" on each north/south/east/west edge of a single piece
+
+shapes:
+* semicircle
+* square
+* triangle
+* trapezoid wide end far
+* trapezoid wide end close
+
+the edge shapes should be on every "grid" edge of every piece
+
+inside of each piece one word will be a different color from all the rest. this is the important word
+
+read all of the important words together for a clue that makes the next password very obvious
+
+
+MAKING IT NOW!
+udlr -> it cuts in that direction
+
+urdl semicircle
+urdl square
+urdl triangle
+xxxx trapezoid
+
+i have 8 verts and 8 hori to place
+i have 12 vert spots and 12 hori spots
+remove 4 of each
+
+i have 24 spots but only 16 to place
+need to remove 8 verts
+
+there's 8 pieces but only 4 journals, probably. so 2 do pieces per journal

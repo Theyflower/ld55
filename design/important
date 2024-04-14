@@ -1,0 +1,28 @@
+THEME: summoning
+
+preconceived ideas:
+* you are viewing files of someone else's computer. the name of the game was intruder and you are the intruder who is intruding in their filesystem
+* the victim notices and tries to protect their files from you
+* eventually the victim gives up and says YOU WIN. they are just going to buy a new computer and abandon the one you are intruding on
+
+add the themme?
+* they can try to summon a fairy or something to act as a virtual assistant?
+* the whole game happens because the victim summons SOMETHING into their computer
+
+puzzle ideas
+* guess the easy to guess password for the "secret_diary.zip" after the victim notices the metadata of their files having dates from the future
+* assemble separate images of jigsaw pieces scattered around the filesystem to learn a password to a zip folder
+* view a spectogram of an audio file to learn a password to a zip folder
+
+DEADLY HILLS
+* richard stallman should be able to fully enjoy the game on a computer he chooses to use
+* no internet needed at all
+* the puzzles should be very easy but conceptually interesting (this is a proof of concept)
+* i'd like to be able to upload the whole game to discord without nitro, it would be a funny way for it to propogate
+
+design
+* each stage should have clues for how the next stage might need to be completed
+* the writing should become more frantic with each stage. gradual deterioration of spelling and grammar
+
+FINAL STEP BEFORE EXPORT
+* touch every file so that their metadata is correct
