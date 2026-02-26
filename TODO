@@ -1,0 +1,6 @@
+TODO:
+
+Pick a new password for the image layer (probably a sixteen letter word or very short phrase with sixteen letters)
+See what can be done about the images (if I kept the gimp files with layers then it's much easier, otherwise make new ones and place puzzle pieces as needed)
+
+The original image puzzle was done very lazily, I simply placed the puzzle pieces where they kinda fit, underlined a word, and then contatenated them all in order. The result is a word salad that sounds coherent enough to be a riddle. Many people struggled with this puzzle not because it was difficult but because it was poorly designed. The victim could have easily written this secret incoherent message as a riddle reminder for self and misinterperiting it doesn't make for a very interesting puzzle in a shorter demo like this. Maybe if the player had a lot of time to have pattern recognition to be trained wrt deciphering these ramblings it could be an interesting puzzle mechanic.
