@@ -4,3 +4,14 @@ Pick a new password for the image layer (probably a sixteen letter word or very 
 See what can be done about the images (if I kept the gimp files with layers then it's much easier, otherwise make new ones and place puzzle pieces as needed)
 
 The original image puzzle was done very lazily, I simply placed the puzzle pieces where they kinda fit, underlined a word, and then contatenated them all in order. The result is a word salad that sounds coherent enough to be a riddle. Many people struggled with this puzzle not because it was difficult but because it was poorly designed. The victim could have easily written this secret incoherent message as a riddle reminder for self and misinterperiting it doesn't make for a very interesting puzzle in a shorter demo like this. Maybe if the player had a lot of time to have pattern recognition to be trained wrt deciphering these ramblings it could be an interesting puzzle mechanic.
+^ The player won't have that much time.
+
+1) Recreate the image layer "clean"(images containing text but no puzzle pieces or distortions)
+2) decide what the password+puzzle piece configuration will be
+3) do a mixture of adding pieces + distortion of the images
+4) invent a reasonable timeline for the game and add dates to the fully text based diary entries
+5) completely from scratch re-export the entire game
+6) check when "playtesting" the game that every file's metadata is correct (Dates of creation, modification, and access)
+7) don't touch this project for a few days
+8) check when "playtesting" the game that every file's metadata is correct (Dates of creation, modification, and access)
+9) release the new version
